@@ -82,15 +82,15 @@ knitr::include_graphics("figures/design.png")
 
 The order and timing of experimental events, as well as the luminance values of pixels within a trial, will be determined pseudo-randomly by the Mersenne Twister pseudorandom number generator, initialized in a way that ensures registration time-locking [@mazor2019].
 
-# Data analysis
+## Data analysis
 
-## Rejection criteria
+### Rejection criteria
 
 Participants will be excluded if their accuracy falls below X%. We will also exclude participants for having extremely fast or slow reaction times in one or more of the tasks (below 100 milliseconds or above 5 seconds in more than 25% of the trials).
 
 Trials with response time below 100 milliseconds or above 5 seconds will be excluded from the response-time analysis.
 
-## Hypotheses and analysis plan
+### Hypotheses and analysis plan
 
 This study is designed to test THE MAIN THEORETICAL HYPOTHESIS IN ONE SENTENCE.
 
@@ -98,7 +98,7 @@ Hypothesis 1 (PRESENCE/ABSENCE RESPONSE TIME): We will test the null hypothesis 
 
 Hypothesis 1 (HYPOTHESIS NAME): We will test the null hypothesis that []. This will be tested using a [] test on [].
 
-## Sample size justification
+### Sample size justification
 
 With 250 participants, we will have a statistical power of `r pwr.t.test(n=250,d=0.3)$power%>%printnum()` to detect effect sizes of 0.3 standard deviations.
 
