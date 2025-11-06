@@ -68,7 +68,7 @@ We report how we determined our sample size, all data exclusions (if any), all m
 
 ## Participants
 
-The research complies with all relevant ethical regulations, and was approved by the Medical Sciences Interdivisional Research Ethics Committee at the University of Oxford (APPROVAL NUMBER HERE). Participants will be recruited via Prolific, and will give informed consent prior to their participation. To be eligible to take part in this study, their Prolific approval rate will need to be 95% or higher, their reported first language English, and their age between 18 and 60. We will collect data until we reach N included participants (after applying our pre-registered exclusion criteria). The entire experiment will take T minutes to complete. Participants will be paid £X for their participation, equivalent to an hourly wage of £9.
+The research complies with all relevant ethical regulations, and was approved by the Medical Sciences Interdivisional Research Ethics Committee at the University of Oxford (APPROVAL NUMBER HERE). Participants will be recruited via Prolific, and will give informed consent prior to their participation. To be eligible to take part in this study, their Prolific approval rate will need to be 95% or higher and their reported first language English. We will collect data until we reach N included participants (after applying our pre-registered exclusion criteria). The entire experiment will take T minutes to complete. Participants will be paid £X for their participation, equivalent to an hourly wage of £9.
 
 ## Procedure
 
